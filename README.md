@@ -239,39 +239,6 @@ pip install pytest
 pytest tests/
 ```
 
-## Cite
-
-```
-@article{mallet2022rnaglib,
-  title={RNAglib: a python package for RNA 2.5 D graphs},
-  author={Mallet, Vincent and Oliver, Carlos and Broadbent, Jonathan and Hamilton, William L and Waldisp{\"u}hl, J{\'e}r{\^o}me},
-  journal={Bioinformatics},
-  volume={38},
-  number={5},
-  pages={1458--1459},
-  year={2022},
-  publisher={Oxford University Press}
-}
-```
-
-## Projects using `rnaglib`
-
-If you use rnaglib in one of your projects, please cite and feel free to make a pull request so we can list your project
-here.
-
-* [RNAMigos2](https://github.com/cgoliver/RNAmigos2)
-* [Structure-and Function-Aware Substitution Matrices](https://github.com/BorgwardtLab/GraphMatchingSubstitutionMatrices)
-* [MultiModRLBP: A Deep Learning Approach for RNA-Small Molecule Ligand Binding Site Prediction using Multi-modal features](https://github.com/lennylv/MultiModRLBP)
-* [VeRNAl](https://github.com/cgoliver/vernal)
-* [RNAMigos](https://github.com/cgoliver/RNAmigos)
-
-## Resources
-
-* [Documentation](https://rnaglib.readthedocs.io/en/latest/?badge=latest)
-* [Twitter](https://twitter.com/rnaglib)
-* Contact: `rnaglib@cs.mcgill.ca`
-
-## References
 
 1. Leontis, N. B., & Zirbel, C. L. (2012). Nonredundant 3D Structure Datasets for RNA Knowledge Extraction and
    Benchmarking. In RNA 3D Structure Analysis and Prediction N. Leontis & E. Westhof (Eds.), (Vol. 27, pp. 281–298).
